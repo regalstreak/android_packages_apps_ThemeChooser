@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Themes</string>
+    <string name="app_name"><b>Themes</b></string>
 
     <!-- Themable items -->
     <string name="lock_screen">Lock wallpapers</string>
