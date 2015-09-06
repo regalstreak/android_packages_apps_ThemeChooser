@@ -18,7 +18,7 @@
     <!-- Themes Showcase Entry Names. Change this array only if you change the Entry URL -->
     <string-array name="get_more_entry_names" translatable="false">
         <item>@string/get_more_entry_pitchblack</item>
-        <item>@string/get_more_entry_play_store1</item>
+        <item>@string/get_more_entry_play_store_cm</item>
     </string-array>
 
     <!-- Themes Showcase Entry URLS. Change this array only if you also change the Entry Name -->
