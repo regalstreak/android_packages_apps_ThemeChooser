@@ -65,8 +65,8 @@
     <string name="get_more_description">You can get more themes from the following links:</string>
     <string name="get_more_app_not_available">App not available</string>
 
-    <string name="get_more_entry_play_store">Play Store</string>
-    <string name="get_more_entry_pitchblack">Get Pitchblack themes</string>
+    <string name="get_more_entry_play_store1"></b>Play Store CM 12 Themes</b></string>
+    <string name="get_more_entry_pitchblack"><b>Get Pitchblack™ themes</b></string>
 
     <string name="designed_for_cm11">Designed for CM11</string>
 </resources>

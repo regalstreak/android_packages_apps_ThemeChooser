@@ -17,13 +17,13 @@
 <resources>
     <!-- Themes Showcase Entry Names. Change this array only if you change the Entry URL -->
     <string-array name="get_more_entry_names" translatable="false">
-        <item>@string/get_more_entry_play_store</item>
         <item>@string/get_more_entry_pitchblack</item>
+        <item>@string/get_more_entry_play_store1</item>
     </string-array>
 
     <!-- Themes Showcase Entry URLS. Change this array only if you also change the Entry Name -->
     <string-array name="get_more_entry_urls" translatable="false">
-        <item>https://play.google.com/store/search?q=theme+engine&amp;c=apps</item>
         <item>https://play.google.com/store/apps/dev?id=8959388472725399421</item>
+        <item>https://play.google.com/store/search?q=theme+engine&amp;c=apps</item>
     </string-array>
 </resources>
