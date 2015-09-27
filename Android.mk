@@ -12,4 +12,4 @@ LOCAL_PRIVILEGED_MODULE := true
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4 \
 
-include $(BUILD_PACKAGE)
+#include $(BUILD_PACKAGE)
