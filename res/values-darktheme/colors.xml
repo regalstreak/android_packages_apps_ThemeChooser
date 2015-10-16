@@ -28,7 +28,7 @@
     <color name="designed_for_color">#ffff8888</color>
     <color name="drawer_item_textcolor">#ffffffff</color>
     <color name="drawer_item_default">@color/pb_dark_shade</color>
-    <color name="drawer_item_pressed">@color/pb_ab</color>
+    <color name="drawer_item_pressed">@color/midnight_theme</color>
     <color name="drawer_divider_line">@color/pb_dark_shade</color>
     <color name="default_circle_indicator_fill_color">@color/midnight_theme</color>
     <color name="default_circle_indicator_page_color">#ff455a64</color>
