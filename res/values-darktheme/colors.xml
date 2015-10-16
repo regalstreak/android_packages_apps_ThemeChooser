@@ -9,6 +9,7 @@
     <color name="midnight_text">#b3ffffff</color>
     <color name="pb_sb">#303F9F</color>
     <color name="pb_ab">#3F51B5</color>
+    <color name="pb_dark_shade">#BF000000</color>
 
     <color name="detailedview_pager_background">@color/midnight_primary</color>
     <color name="title_author_background">@color/midnight_primary</color>
@@ -26,9 +27,9 @@
     <color name="apply_button_pressed_color">#ff455a64</color>
     <color name="designed_for_color">#ffff8888</color>
     <color name="drawer_item_textcolor">#ffffffff</color>
-    <color name="drawer_item_default">@color/midnight_primary</color>
-    <color name="drawer_item_pressed">#ff455a64</color>
-    <color name="drawer_divider_line">@color/midnight_primary</color>
+    <color name="drawer_item_default">@color/pb_dark_shade</color>
+    <color name="drawer_item_pressed">@color/pb_ab</color>
+    <color name="drawer_divider_line">@color/pb_dark_shade</color>
     <color name="default_circle_indicator_fill_color">@color/midnight_theme</color>
     <color name="default_circle_indicator_page_color">#ff455a64</color>
     <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
