@@ -25,4 +25,5 @@
     <string-array name="get_more_entry_urls" translatable="false">
         <item>https://play.google.com/store/apps/dev?id=8959388472725399421</item>
         <item>https://play.google.com/store/search?q=theme+engine&amp;c=apps</item>
+    </string-array>
 </resources>
